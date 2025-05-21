@@ -51,7 +51,7 @@ async function uploadToS3(path, originalFilename,mimetype) {
     ContentType :mimetype,
     ACL:'public-read',
   }));
-   return `http://${bucket}.s3.amazonaws.com/${newFilename}`;
+   return `https://${bucket}.s3.amazonaws.com/${newFilename}`;
 }
 
 
