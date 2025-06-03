@@ -1,6 +1,12 @@
 # Nivasa - A Booking Website
 **Nivasa** is created to book, upload and, search accomodations across the globe.
 ___
+## Screen Shots
+![screenshot-Nivasa](https://github.com/user-attachments/assets/0af2a15b-d3d9-4aee-b637-6e613b232e38)
+
+
+
+
 
 ## Features:
 - 🔐User Authentication (Register / Login)
