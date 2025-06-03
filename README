@@ -1,4 +1,4 @@
-# Nivasa - A BOOKING WEBSITE
+# Nivasa - A Booking Website
 **Nivasa** is created to book, upload and, search accomodations across the globe.
 ___
 
@@ -12,7 +12,7 @@ ___
 
 ___
 
-### Tech Stack
+## Tech Stack
 *Layer*             *Tech*
 **Frontend**        React(Vite)
 **Styling**         Tailwind CSS
@@ -48,6 +48,6 @@ ___
 	•	The backend fetches all bookings associated with that user.
 	•	Results are shown in a simple history table or card view.
 
-##### Author 
+### Author 
 Build with <3 by Tanishtha Roy 
 
