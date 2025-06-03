@@ -3,8 +3,16 @@
 ___
 ## Screen Shots
 ![screenshot-Nivasa](https://github.com/user-attachments/assets/0af2a15b-d3d9-4aee-b637-6e613b232e38)
-
-
+**Home Page**
+___
+![screenshot-N2](https://github.com/user-attachments/assets/da93d8ef-ed52-4c19-80b5-3c269a364c97)
+**Booking Page**
+____
+![Screenshot 2025-06-03 115003](https://github.com/user-attachments/assets/3bf000fc-5b46-4998-96e7-a9063789cc58)
+**Login Page**
+___
+![screenshot-NAccomodation](https://github.com/user-attachments/assets/0b87de12-b4e6-4e71-b6ce-fc787aae3a19)
+**Accomodations Page**
 
 
 
