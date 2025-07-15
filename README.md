@@ -17,12 +17,12 @@ ___
 
 
 ## Features:
-- 🔐User Authentication (Register / Login)
-- 🏨 View Hotel Listings
-- 📅 Book Rooms with Check-in & Check-out Dates
-- 📖 View Booking History
-- 💅 Responsive UI using Tailwind CSS
-- 🌐 Upload Pictures
+- User Authentication (Register / Login)
+- View Hotel Listings
+- Book Rooms with Check-in & Check-out Dates
+- View Booking History
+- Responsive UI using Tailwind CSS
+- Upload Pictures
 
 ___
 
@@ -38,17 +38,17 @@ ___
 
 #### Logic
 
-🔐 User Authentication
+ User Authentication
 	•	Register & Login functionality is built using JWT (JSON Web Tokens).
 	•	Passwords are hashed using bcrypt before saving to MongoDB.
 	•	On successful login, a token is sent to the client and used to access protected routes (e.g., bookings).
 
-🏨 Hotel Listing
+ Hotel Listing
 	•	When the user visits the home page, the frontend makes a GET request to api.
 	•	The backend fetches all hotels from MongoDB and sends them as JSON to the client.
 	•	Hotels are displayed dynamically using React.
 
-📅 Booking Logic
+ Booking Logic
 	•	Users select check-in and check-out dates, which are validated on the client.
 	•	On submission, a POST request is sent to api of bookings.
 	•	The backend:
@@ -57,11 +57,10 @@ ___
 	•	Creates a booking document with user ID, hotel ID, and dates.
 	•	Booking confirmation is sent back to the client.
 
-🧾 Booking History
+ Booking History
 	•	When the user navigates to their profile/dashboard, a GET request is sent to /api/bookings/:userId.
 	•	The backend fetches all bookings associated with that user.
 	•	Results are shown in a simple history table or card view.
 
-### Author 
-Build with <3 by Tanishtha Roy 
+
 
