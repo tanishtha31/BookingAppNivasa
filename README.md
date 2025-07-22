@@ -61,8 +61,7 @@ ___
  **Booking Logic**
 - Users select checkin and checkout dates, which are validated on the client.
 - On submission, a POST request is sent to api of bookings.
-- The backend:
-- Verifies user via token.
+- The backend verifies user via token.
 - Checks room availability.
 - Creates a booking document with user ID, hotel ID, and dates.
 - Booking confirmation is sent back to the client.
